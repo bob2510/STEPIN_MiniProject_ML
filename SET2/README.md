@@ -1,4 +1,4 @@
-) Why this algorithm?
+1) Why this algorithm?
 
    This is yet another classification problem so algoeithms like kNN, Random forest, Decision tree, ets work very good.
    
