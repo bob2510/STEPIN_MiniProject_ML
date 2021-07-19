@@ -20,5 +20,6 @@
    Naive Bayes :- 79.91
    SVM :- 82.61
    So, we used SVM for finding the test_results
-   ![alt text](https://github.com/bob2510/STEPIN_MiniProject_ML/blob/Main/SET0_Titanic/titanic.PNG?raw=true)
-   SET0_Titanic/titanic.PNG
+   
+   ![Kaggle Submission](https://github.com/bob2510/STEPIN_MiniProject_ML/blob/ae044769dc45afd9be7f9762e8525aca0532bc34/SET0_Titanic/titanic.PNG)
+   
