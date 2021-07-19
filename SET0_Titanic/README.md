@@ -14,11 +14,11 @@
 3) Results
 
    After applying all the classification specialist algorithms, the accuracies obtained in each of them was as follows
-   kNN :- 81.82
-   Decision Tree :- 80.47
-   Random Forest :- 80.25
-   Naive Bayes :- 79.91
-   SVM :- 82.61
+   kNN :- 76.82
+   Decision Tree :- 75.47
+   Random Forest :- 75.25
+   Naive Bayes :- 74.91
+   SVM :- 77.75
    So, we used SVM for finding the test_results
    
    ![Kaggle Submission](https://github.com/bob2510/STEPIN_MiniProject_ML/blob/ae044769dc45afd9be7f9762e8525aca0532bc34/SET0_Titanic/titanic.PNG)
