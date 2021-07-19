@@ -21,7 +21,7 @@
 
 3) How you tackled Problems?
 
-  Took few iterations to settle on number of epochs for a better training.
+   Took few iterations to settle on number of epochs for a better training.
   
   
 4) Results
