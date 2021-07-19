@@ -14,12 +14,30 @@
 3) Results
 
    After applying all the classification specialist algorithms, the accuracies obtained in each of them was as follows
+   
    kNN :- 76.82
+   
    Decision Tree :- 75.47
+   
    Random Forest :- 75.25
+   
    Naive Bayes :- 74.91
+   
    SVM :- 77.75
+   
    So, we used SVM for finding the test_results
    
    ![Kaggle Submission](https://github.com/bob2510/STEPIN_MiniProject_ML/blob/ae044769dc45afd9be7f9762e8525aca0532bc34/SET0_Titanic/titanic.PNG)
    
+
+
+4) Conclusions/Learnings
+
+   There were many things that I got to learn while doing this problem like how to handle a classification properly.
+   How to preprocess our data properly and in an efficient way.
+   
+   How to make for missing data properly.
+   
+   How to use categorical data in a problem efficiently by mapping them
+   
+   Also, I concluded that SVM, random forest and some other algorithms are very good algorithms for a classification problem
