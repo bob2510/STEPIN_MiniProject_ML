@@ -1,6 +1,6 @@
 1) Why did you choose this algorithm?
 
-   This titanic problem is clearly a classification problem. And the most popular classification problems are Regression, kNN, Decision Trees, Support Vector Machine, Naive Bayes,    etc. So, I tried each of these algorithms and we got the best accuracy in the Support Vector Machine so went ahead with SVM.
+   This titanic problem is clearly a classification problem. And the most popular classification algorithms are Regression, kNN, Decision Trees, Support Vector Machine, Naive Bayes,    etc. So, I tried each of these algorithms and we got the best accuracy in the Support Vector Machine so went ahead with SVM.
    
 2) Why you took any decision? / How you tackled problems?
 
